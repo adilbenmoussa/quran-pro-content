@@ -1,6 +1,6 @@
 {
- "version": 19,
- "generatedAt": "2026-10-09T22:36:13.831Z",
+ "version": 21,
+ "generatedAt": "2026-10-10T22:12:31.988Z",
  "bases": [],
  "reciters": [
   {
@@ -10,6 +10,7 @@
    "style": "murattal",
    "riwayah": "hafs",
    "surahPaths": [
+    "https://quranpro-audio.quranpro.workers.dev/abdulbasit/{nnn}.mp3",
     "https://archive.org/download/quranpro-abdul-basit-murattal/{nnn}.mp3"
    ],
    "surahBytes": [
@@ -140,6 +141,7 @@
    "style": "mujawwad",
    "riwayah": "hafs",
    "surahPaths": [
+    "https://quranpro-audio.quranpro.workers.dev/abdulbasit_mujawwad/{nnn}.mp3",
     "https://archive.org/download/quranpro-abdul-basit-mujawwad/{nnn}.mp3"
    ],
    "surahBytes": [
@@ -270,6 +272,7 @@
    "style": "murattal",
    "riwayah": "hafs",
    "surahPaths": [
+    "https://quranpro-audio.quranpro.workers.dev/aidarous/{nnn}.mp3",
     "https://archive.org/download/quranpro-yusuf-al-aidarous/{nnn}.mp3"
    ],
    "surahBytes": [
@@ -400,6 +403,7 @@
    "style": "murattal",
    "riwayah": "hafs",
    "surahPaths": [
+    "https://quranpro-audio.quranpro.workers.dev/alafasy/{nnn}.mp3",
     "https://archive.org/download/quranpro-mishary-alafasy/{nnn}.mp3"
    ],
    "surahBytes": [
@@ -530,6 +534,7 @@
    "style": "murattal",
    "riwayah": "hafs",
    "surahPaths": [
+    "https://quranpro-audio.quranpro.workers.dev/alqasim/{nnn}.mp3",
     "https://archive.org/download/quranpro-abdul-muhsin-al-qasim/{nnn}.mp3"
    ],
    "surahBytes": [
@@ -804,6 +809,7 @@
     66
    ],
    "downloadOnly": true,
+   "listenOnly": true,
    "timingsRevision": 1,
    "timingsPath": "timings/balushi-r1.json"
   },
@@ -814,6 +820,7 @@
    "style": "murattal",
    "riwayah": "hafs",
    "surahPaths": [
+    "https://quranpro-audio.quranpro.workers.dev/bukhatir/{nnn}.mp3",
     "https://archive.org/download/quranpro-salah-bukhatir/{nnn}.mp3"
    ],
    "surahBytes": [
@@ -944,6 +951,7 @@
    "style": "murattal",
    "riwayah": "hafs",
    "surahPaths": [
+    "https://quranpro-audio.quranpro.workers.dev/ghamdi/{nnn}.mp3",
     "https://archive.org/download/quranpro-saad-al-ghamdi/{nnn}.mp3"
    ],
    "surahBytes": [
@@ -1074,6 +1082,7 @@
    "style": "murattal",
    "riwayah": "hafs",
    "surahPaths": [
+    "https://quranpro-audio.quranpro.workers.dev/husary/{nnn}.mp3",
     "https://archive.org/download/quranpro-mahmoud-al-husary-murattal/{nnn}.mp3"
    ],
    "surahBytes": [
@@ -1204,6 +1213,7 @@
    "style": "muallim",
    "riwayah": "hafs",
    "surahPaths": [
+    "https://quranpro-audio.quranpro.workers.dev/husary_muallim/{nnn}.mp3",
     "https://archive.org/download/quranpro-mahmoud-al-husary-muallim/{nnn}.mp3"
    ],
    "surahBytes": [
@@ -1334,6 +1344,7 @@
    "style": "murattal",
    "riwayah": "hafs",
    "surahPaths": [
+    "https://quranpro-audio.quranpro.workers.dev/minshawi/{nnn}.mp3",
     "https://archive.org/download/quranpro-minshawi-murattal/{nnn}.mp3"
    ],
    "surahBytes": [
@@ -1464,6 +1475,7 @@
    "style": "murattal",
    "riwayah": "hafs",
    "surahPaths": [
+    "https://quranpro-audio.quranpro.workers.dev/muaiqly/{nnn}.mp3",
     "https://archive.org/download/quranpro-maher-al-muaiqly/{nnn}.mp3"
    ],
    "surahBytes": [
@@ -1594,6 +1606,7 @@
    "style": "murattal",
    "riwayah": "hafs",
    "surahPaths": [
+    "https://quranpro-audio.quranpro.workers.dev/rifai/{nnn}.mp3",
     "https://archive.org/download/quranpro-hani-ar-rifai/{nnn}.mp3"
    ],
    "surahBytes": [
@@ -1724,6 +1737,7 @@
    "style": "murattal",
    "riwayah": "hafs",
    "surahPaths": [
+    "https://quranpro-audio.quranpro.workers.dev/shatri/{nnn}.mp3",
     "https://archive.org/download/quranpro-abu-bakr-ash-shatri/{nnn}.mp3"
    ],
    "surahBytes": [
@@ -1854,6 +1868,7 @@
    "style": "murattal",
    "riwayah": "hafs",
    "surahPaths": [
+    "https://quranpro-audio.quranpro.workers.dev/shuraym/{nnn}.mp3",
     "https://archive.org/download/quranpro-saud-ash-shuraym/{nnn}.mp3"
    ],
    "surahBytes": [
@@ -1984,6 +1999,7 @@
    "style": "murattal",
    "riwayah": "hafs",
    "surahPaths": [
+    "https://quranpro-audio.quranpro.workers.dev/sudais/{nnn}.mp3",
     "https://archive.org/download/quranpro-abdurrahman-as-sudais/{nnn}.mp3"
    ],
    "surahBytes": [
@@ -2114,6 +2130,7 @@
    "style": "murattal",
    "riwayah": "hafs",
    "surahPaths": [
+    "https://quranpro-audio.quranpro.workers.dev/tablawi/{nnn}.mp3",
     "https://archive.org/download/quranpro-muhammad-al-tablawi/{nnn}.mp3"
    ],
    "surahBytes": [

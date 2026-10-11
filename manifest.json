@@ -1,6 +1,6 @@
 {
- "version": 23,
- "generatedAt": "2026-10-11T12:10:03.365Z",
+ "version": 24,
+ "generatedAt": "2026-10-11T16:59:53.336Z",
  "bases": [],
  "reciters": [
   {
@@ -393,6 +393,7 @@
    ],
    "unavailableSurahs": [],
    "downloadOnly": true,
+   "listenOnly": true,
    "timingsRevision": 1,
    "timingsPath": "timings/aidarous-r1.json"
   },

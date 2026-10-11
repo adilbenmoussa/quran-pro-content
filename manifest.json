@@ -1,6 +1,6 @@
 {
- "version": 21,
- "generatedAt": "2026-10-10T22:12:31.988Z",
+ "version": 22,
+ "generatedAt": "2026-10-11T11:48:38.856Z",
  "bases": [],
  "reciters": [
   {
@@ -665,6 +665,7 @@
    "style": "murattal",
    "riwayah": "hafs",
    "surahPaths": [
+    "https://quranpro-audio.quranpro.workers.dev/balushi/{nnn}.mp3",
     "https://archive.org/download/quranpro-hazza-al-balushi/{nnn}.mp3"
    ],
    "surahBytes": [
